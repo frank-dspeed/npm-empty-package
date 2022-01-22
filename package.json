@@ -1,5 +1,5 @@
 {
-  "name": "empty-package",
+  "name": "npm-empty-package",
   "version": "1.0.0",
   "description": "A Empty NPM Package to get Used as replacement for unwanted packages like conflicting @types/* packages",
   "main": "index.js",
