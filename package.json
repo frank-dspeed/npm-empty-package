@@ -1,0 +1,27 @@
+{
+  "name": "empty-package",
+  "version": "1.0.0",
+  "description": "A Empty NPM Package to get Used as replacement for unwanted packages like conflicting @types/* packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frank-dspeed/npm-empty-package.git"
+  },
+  "keywords": [
+    "empty",
+    "npm",
+    "package",
+    "replacement",
+    "resolution",
+    "overwrite"
+  ],
+  "author": "Frank Lemanschik <frank@lemanschik.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/frank-dspeed/npm-empty-package/issues"
+  },
+  "homepage": "https://github.com/frank-dspeed/npm-empty-package#readme"
+}
